@@ -332,7 +332,7 @@ form input,form textarea{
 form textarea{
     resize: none;
     max-width: 500px;
-    max-height: 600px;
+    max-height: 700px;
 }
 
 form .btn-enviar{
@@ -346,6 +346,7 @@ background-color:rgb(34, 81, 134)  ;
 color: #000;
 font-size: 700;
 cursor: pointer;
+transition: .2s;
 }
 
 
